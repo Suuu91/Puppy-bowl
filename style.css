@@ -1,0 +1,14 @@
+h1{
+  display:flex;
+  justify-content: center;
+}
+
+h3{
+  display:flex;
+  justify-content: center;
+}
+
+img{
+  width: 500px;
+  height: 700px;
+}
